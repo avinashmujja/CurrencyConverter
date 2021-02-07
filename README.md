@@ -16,5 +16,11 @@ Unit testing
 
 This project written in Kotlin... Clean Architecture using SOLID priniciples and consists of DaggerHilt, Viewbinding, Viewmodels, Stateflows, Room database, extension dependencies and unit testing
 
+Screenshot1
+
 ![Screenshot](/assests/currencyconverter.png)
+
+Screenshot2
+
+![Screenshot](/assests/currencyconverter2.png)
 
