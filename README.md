@@ -14,5 +14,5 @@ Unit testing
 
 # Android Architecture and its components
 
-This project written in Clean Architecture using SOLID priniciples and consists of DaggerHilt, Viewbinding, Viewmodels, Stateflows, Room database, extension dependencies and unit testing
+This project written in Kotlin... Clean Architecture using SOLID priniciples and consists of DaggerHilt, Viewbinding, Viewmodels, Stateflows, Room database, extension dependencies and unit testing
 
